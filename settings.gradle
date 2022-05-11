@@ -8,7 +8,5 @@ dependencyResolutionManagement {
 }
 rootProject.name = "AAR_GRADLE_JAR_Creation_Project"
 include ':app'
-include ':SampleAAR'
 include ':app:myapplication'
-include ':SampleJAR'
 include ':SampleGradle'
